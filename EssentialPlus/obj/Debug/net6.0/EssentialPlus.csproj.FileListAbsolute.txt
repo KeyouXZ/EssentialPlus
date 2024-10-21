@@ -1,0 +1,13 @@
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\bin\Debug\net6.0\HttpServer.dll
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\bin\Debug\net6.0\EssentialPlus.deps.json
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\bin\Debug\net6.0\EssentialPlus.dll
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\bin\Debug\net6.0\EssentialPlus.pdb
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\obj\Debug\net6.0\EssentialPlus.csproj.AssemblyReference.cache
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\obj\Debug\net6.0\EssentialPlus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\obj\Debug\net6.0\EssentialPlus.AssemblyInfoInputs.cache
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\obj\Debug\net6.0\EssentialPlus.AssemblyInfo.cs
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\obj\Debug\net6.0\EssentialPlus.csproj.CoreCompileInputs.cache
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\obj\Debug\net6.0\EssentialPlus.dll
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\obj\Debug\net6.0\refint\EssentialPlus.dll
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\obj\Debug\net6.0\EssentialPlus.pdb
+D:\Coding\TShock Plugin\EssentialPlus\EssentialPlus\obj\Debug\net6.0\ref\EssentialPlus.dll
