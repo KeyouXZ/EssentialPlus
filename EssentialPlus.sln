@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialPlus", "EssentialPlus\EssentialPlus.csproj", "{CDD5006C-2041-4037-953B-CFA035EB549B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD5006C-2041-4037-953B-CFA035EB549B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD5006C-2041-4037-953B-CFA035EB549B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD5006C-2041-4037-953B-CFA035EB549B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD5006C-2041-4037-953B-CFA035EB549B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727B74AB-F112-409C-85EE-841A9C47D74E}
+	EndGlobalSection
+EndGlobal
