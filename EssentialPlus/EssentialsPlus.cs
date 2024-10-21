@@ -18,13 +18,13 @@ public class EssentialsPlus : TerrariaPlugin
     public static HomeManager Homes { get; private set; }
     public static MuteManager Mutes { get; private set; }
 
-    public override string Author => "WhiteX and others, Average, Cjx, Liver Emperor Xi En (translation), Cai (updates)";
+    public override string Author => "WhiteX and others, Average, Cjx, Liver Emperor Xi En (translation), Cai (updates), Keyou & Pace Kobo (traslation Chinese -> English)";
 
     public override string Description => "Enhanced version of Essentials";
 
     public override string Name => "EssentialsPlus";
 
-    public override Version Version => new Version(1, 0, 2);
+    public override Version Version => new Version(1, 0, 3);
 
     public EssentialsPlus(Main game)
         : base(game)
